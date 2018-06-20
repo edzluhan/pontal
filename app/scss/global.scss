@@ -1,0 +1,8 @@
+// 1. Import the initial variables
+@import 'bulma/sass/utilities/initial-variables';
+@import 'bulma/sass/utilities/functions';
+$warning-invert: #69301d;
+$warning: #faa61a;
+
+@import 'bulma/bulma';
+@import '~antd/dist/antd.css';

@@ -1,0 +1,37 @@
+#full-banner {
+	background-image: url(https://c.fastcdn.co/u/64827b2f/30310346-0-sem-ttulo-0033.jpg);
+	color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-y: bottom;
+	background-color: #000000;
+	opacity: 0.4;
+}
+
+.hero .title {
+	color: white;
+}
+
+.yt-wrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.yt-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.color-overlay {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	margin: 0 auto;
+	background-color: #000000;
+	opacity: 0.7;
+	display: block;
+}
