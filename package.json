@@ -30,7 +30,7 @@
 		"immutable": "3.8.2",
 		"isomorphic-unfetch": "2.0.0",
 		"localforage": "1.7.1",
-		"lodash": "4.17.10",
+		"lodash": "4.17.19",
 		"moment": "2.22.1",
 		"next": "6.0.3",
 		"numeral": "2.0.6",
